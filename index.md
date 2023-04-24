@@ -19,7 +19,7 @@ e-SUS Atenção Primária à Saúde (e-SUS APS)
 PRONTUÁRIO ELETRÔNICO DO CIDADÃO (PEC)
 {: .fs-8 }
 {: .text-center }
-MANUAL DE USO PARA PILOTOS
+MUNICÍPIOS PILOTOS
 {: .fs-8 }
 {: .text-center }
 <br>
